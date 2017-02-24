@@ -4,11 +4,15 @@
 
 ---
 
+<p>
+
 [![Build Status][ico-build]][link-build]
 [![Code Quality][ico-code-quality]][link-code-quality]
 [![Code Coverage][ico-code-coverage]][link-code-coverage]
 [![Latest Version][ico-version]][link-packagist]
 [![PDS Skeleton][ico-pds]][link-pds]
+
+</p>
 
 # Arbor\:package_name
 
