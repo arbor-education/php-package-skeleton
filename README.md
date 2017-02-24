@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://novaiskra.com/sites/default/files/profilslika/arbor_circles.png" alt="Arbor" width="250px" />
+  <img src="http://novaiskra.com/sites/default/files/profilslika/arbor_circles.png" alt="Arbor" width="200px" />
 </p>
 
 ---

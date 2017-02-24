@@ -10,10 +10,10 @@
 
 namespace Arbor\Tests;
 
-use PHPUnit_Framework_TestCase;
+use PHPUnit\Framework\TestCase;
 use Arbor\Example;
 
-class ExampleTest extends PHPUnit_Framework_TestCase
+class ExampleTest extends TestCase
 {
     /**
      * @var Example
