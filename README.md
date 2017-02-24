@@ -28,7 +28,7 @@ This is where your library description should be.
 The preferred method of installation is via [Composer](http://getcomposer.org/). Run the following command to install the latest version of a package and add it to your project's `composer.json`:
 
 ```bash
-composer require Arbor Education/:package_name
+composer require arbor-education/:package_name
 ```
 
 ## Usage
