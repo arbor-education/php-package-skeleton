@@ -1,17 +1,15 @@
 {
-    "name": ":vendor/:package_name",
+    "name": "arbor-education/:package_name",
     "description": ":package_description",
     "type": "library",
     "license": "MIT",
     "keywords": [
-        ":vendor",
         ":package_name"
     ],
     "authors": [
         {
             "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website"
+            "email": ":author_email"
         }
     ],
     "require": {
@@ -23,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "PackageSkeleton\\": "src/"
+            "Arbor\\:package_name\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "PackageSkeleton\\Tests\\": "tests/"
+            "Arbor\\:package_name\\Tests\\": "tests/"
         }
     },
     "scripts": {

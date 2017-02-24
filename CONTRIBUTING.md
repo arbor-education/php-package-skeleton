@@ -1,6 +1,6 @@
 # Contributing
 
-We accept contributions via Pull Requests on [Github](https://github.com/:vendor/:package_name).
+We accept contributions via Pull Requests on [Github](https://github.com/arbor-education/:package_name).
 
 ## Running tests
 

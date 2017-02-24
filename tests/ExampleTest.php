@@ -2,16 +2,16 @@
 /**
  * This file is part of the :package_name package.
  *
- * Copyright (c) :vendor
+ * Copyright (c) Arbor Education
  *
  * For full copyright and license information, please refer to the LICENSE file,
  * located at the package root folder.
  */
 
-namespace PackageSkeleton\Tests;
+namespace Arbor\Tests;
 
 use PHPUnit_Framework_TestCase;
-use PackageSkeleton\Example;
+use Arbor\Example;
 
 class ExampleTest extends PHPUnit_Framework_TestCase
 {
