@@ -16,9 +16,6 @@ matrix:
     - php: hhvm
   allow_failures:
     - php: hhvm
-
-before_install:
-  - phpenv config-rm xdebug.ini
   
 install:
   - travis_retry composer install --no-interaction
